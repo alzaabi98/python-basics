@@ -13,7 +13,7 @@ def myage():
     name = "Ahmed"
     print(age)
 
-
+# global to change variable 
 def myage2():
     global age
     age = 30
